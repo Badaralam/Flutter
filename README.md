@@ -1,4 +1,4 @@
-# final_flutter
+# Crowd management app with flutter Supported by firebase
 
 A new Flutter application.
 
